@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Unsplash" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="ThemeAppCompat.Unsplash" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="ShapeAppearanceOverlay.Picture" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+</resources>
