@@ -26,6 +26,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
@@ -73,7 +74,8 @@ fun ImagesListScreen(
                     Image(
                         imageVector = Icons.Default.Search,
                         modifier = Modifier.size(25.dp),
-                        contentDescription = stringResource(R.string.description_search)
+                        contentDescription = stringResource(R.string.description_search),
+                        colorFilter = ColorFilter.tint(Color.White)
                     )
                 },
                 keyboardOptions = KeyboardOptions.Default.copy(
