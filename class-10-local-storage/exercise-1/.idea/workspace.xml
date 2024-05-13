@@ -16,9 +16,23 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573b630c-e3c6-4d10-826d-1ac862157d68" name="Changes" comment="Class #8 Materials">
+    <list default="true" id="573b630c-e3c6-4d10-826d-1ac862157d68" name="Changes" comment="Class #10 Materials">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/app/src/main/java/com/harbourspace/unsplash/ui/images/ImagesListScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-8-navigation/exercise-3/app/src/main/java/com/harbourspace/unsplash/ui/images/ImagesListScreen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +98,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Library/Caches/Google/AndroidStudio2023.3/device-explorer/Pixel 6 Pro API 33/_/data/data/com.harbourspace.unsplash/shared_prefs/unsplash.xml" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -113,7 +130,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/avancee/Downloads/HS - CS310 - 2024/harbour-space-bcn-24/class-10-local-storage/exercise-1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   },
   "keyToStringList": {
     "com.android.tools.idea.sqlite.queryhistory": [
@@ -227,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715305944584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class #10 Materials">
+      <option name="closed" value="true" />
+      <created>1715478393863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715478393863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,7 +261,8 @@
     <MESSAGE value="Class #4 Materials" />
     <MESSAGE value="Class #5 Materials" />
     <MESSAGE value="Class #8 Materials" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class #8 Materials" />
+    <MESSAGE value="Class #10 Materials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class #10 Materials" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
