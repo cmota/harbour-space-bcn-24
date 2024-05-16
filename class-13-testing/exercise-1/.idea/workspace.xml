@@ -16,9 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573b630c-e3c6-4d10-826d-1ac862157d68" name="Changes" comment="Class #12 Materials">
-      <change beforePath="$PROJECT_DIR$/../../class-12-firebase-II/exercise-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../class-12-firebase-II/exercise-1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="573b630c-e3c6-4d10-826d-1ac862157d68" name="Changes" comment="Class #13 Materials" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715681037612</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class #13 Materials">
+      <option name="closed" value="true" />
+      <created>1715815100048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715815100048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,7 +272,8 @@
     <MESSAGE value="Class #10 Materials" />
     <MESSAGE value="Class #11 Materials" />
     <MESSAGE value="Class #12 Materials" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class #12 Materials" />
+    <MESSAGE value="Class #13 Materials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class #13 Materials" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,7 +300,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/harbourspace/unsplash/ui/images/ImagesListActivity.kt</url>
-          <line>260</line>
+          <line>255</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
